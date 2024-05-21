@@ -1,0 +1,13 @@
+a=10
+b=20
+print(a,b)
+print(a+b)
+print("a",b)
+print(id(a),id(b))
+print(a*b)
+print(a/b)
+c=50
+d=60
+print(d/b*a+c)
+e="hello"
+print(e)

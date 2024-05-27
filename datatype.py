@@ -1,0 +1,31 @@
+a=10
+print(a,type(a))
+b=5.6
+print(b,type(b))
+c=3+6j
+print(c,type(c))
+s="hello mukesh"
+print(s,type(s))
+s="hellomukesh1@M"
+print(s,type(s))
+s="50"
+print(s,type(s))
+print(type(s))
+l=[20,'mk',6.8]
+print(l)
+print(l,type(l))
+l[1]='ms'
+print(l)
+t=(20,3+6j,5.4,'mk')
+print(t)
+print(t,type(t))
+d={
+    'course_name':'python',
+    'course_duration':'2 month'
+}
+print(d)
+print(d,type(d))
+print(d['course_name'])
+s={20,30,60,50,30,60,40,50}
+print(s)
+print(s,type(s))
